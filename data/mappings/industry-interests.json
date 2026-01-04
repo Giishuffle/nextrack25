@@ -1,0 +1,102 @@
+{
+  "automotive": [
+    { "id": "6003176678152", "name": "Automobiles" },
+    { "id": "6003397270041", "name": "Sedan (automobile)" },
+    { "id": "6003342603828", "name": "Fiat Automobiles" }
+  ],
+  "technology": [
+    { "id": "6003985771306", "name": "Technology" },
+    { "id": "6003164535634", "name": "Information technology" },
+    { "id": "6003285403725", "name": "Educational technology" }
+  ],
+  "e-commerce": [
+    { "id": "6003346592981", "name": "Online shopping" },
+    { "id": "429633153865508", "name": "Daraz Online Shopping" },
+    { "id": "6849890049601", "name": "Online shopping websites" }
+  ],
+  "fitness": [
+    { "id": "6003277229371", "name": "Physical fitness" },
+    { "id": "6003384248805", "name": "Fitness and wellness" },
+    { "id": "6004115167424", "name": "Physical exercise" }
+  ],
+  "finance": [
+    { "id": "6003388314512", "name": "Investment" },
+    { "id": "6003063638807", "name": "Investment banking" },
+    { "id": "6003293787730", "name": "Investment management" }
+  ],
+  "travel": [
+    { "id": "6004160395895", "name": "Travel" },
+    { "id": "6003211401886", "name": "Air travel" },
+    { "id": "6002868021822", "name": "Adventure travel" }
+  ],
+  "real-estate": [
+    { "id": "6003578086487", "name": "Real estate" },
+    { "id": "6003446239080", "name": "Real estate investing" },
+    { "id": "6003332796032", "name": "Real estate development" }
+  ],
+  "healthcare": [
+    { "id": "6003258544357", "name": "Health & wellness" },
+    { "id": "6003382102565", "name": "Healthy diet" },
+    { "id": "6003420915231", "name": "Health club" }
+  ],
+  "food-beverage": [
+    { "id": "6003266061909", "name": "Food" },
+    { "id": "6009248606271", "name": "Food and drink" },
+    { "id": "6004037400009", "name": "Fast food" }
+  ],
+  "fashion": [
+    { "id": "6003348604581", "name": "Fashion accessories" },
+    { "id": "6003396051089", "name": "Fashion (film)" },
+    { "id": "6003266266843", "name": "Fashion design" }
+  ],
+  "gaming": [
+    { "id": "6003057392644", "name": "Gaming" },
+    { "id": "6004922412789", "name": "Gaming computer" },
+    { "id": "6003940339466", "name": "Video games" }
+  ],
+  "education": [
+    { "id": "6003327060545", "name": "Education" },
+    { "id": "6003270811593", "name": "Higher education" },
+    { "id": "6003306206853", "name": "Early childhood education" }
+  ],
+  "entertainment": [
+    { "id": "6003349442621", "name": "Entertainment" },
+    { "id": "6003495261627", "name": "Marvel Entertainment" },
+    { "id": "6002932510173", "name": "Sony Music Entertainment" }
+  ],
+  "sports": [
+    { "id": "6003269553527", "name": "Sports" },
+    { "id": "6003540150873", "name": "Sports games" },
+    { "id": "6003545471303", "name": "Sportswear (activewear)" }
+  ],
+  "beauty": [
+    { "id": "6002867432822", "name": "Beauty" },
+    { "id": "6003088846792", "name": "Beauty salons" },
+    { "id": "6003393295343", "name": "Health And Beauty" }
+  ],
+  "pets": [
+    { "id": "6004037726009", "name": "Pets" },
+    { "id": "6003430816269", "name": "Pets at Home" },
+    { "id": "6002895988479", "name": "PetSmart" }
+  ],
+  "home-improvement": [
+    { "id": "6003234413249", "name": "Home improvement" },
+    { "id": "6003350808860", "name": "Lowe's" },
+    { "id": "6016008329543", "name": "Home-improvement center" }
+  ],
+  "insurance": [
+    { "id": "6003217093576", "name": "Insurance" },
+    { "id": "6003353637860", "name": "Life insurance" },
+    { "id": "6003633149383", "name": "Vehicle insurance" }
+  ],
+  "parenting": [
+    { "id": "6003232518610", "name": "Parenting" },
+    { "id": "6003737012891", "name": "Parenting (magazine)" },
+    { "id": "6003704126313", "name": "Baby food" }
+  ],
+  "luxury": [
+    { "id": "6007828099136", "name": "Luxury goods" },
+    { "id": "6004048615096", "name": "Luxury vehicle" },
+    { "id": "6003392552125", "name": "Luxury Lifestyle" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "sm-data-analyzer",
+  "version": "1.0.0",
+  "description": "Meta Advertising Cost Analyzer using Phantom Probing methodology",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "smanalyzer": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "probe": "node src/cli.js probe",
+    "validate": "node src/cli.js validate",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "meta",
+    "facebook",
+    "advertising",
+    "cpm",
+    "ctr",
+    "marketing-api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bottleneck": "^2.19.5",
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "commander": "^12.1.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.7",
+    "envalid": "^8.0.0",
+    "facebook-nodejs-business-sdk": "^21.0.3",
+    "nodemailer": "^7.0.12",
+    "ora": "^8.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
